@@ -1,2 +1,2 @@
 #testchildbranch
-1+1
+print("inside child branch")
